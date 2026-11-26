@@ -1,0 +1,12 @@
+{
+  "name": "Glu Member",
+  "short_name": "Glu Member",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F3F5DC",
+  "theme_color": "#864F2A",
+  "icons": [
+    { "src": "glu-icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
